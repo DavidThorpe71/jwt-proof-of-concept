@@ -1,0 +1,16 @@
+{
+  "name": "site-two",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DavidThorpe71/jwt-proof-of-concept",
+  "author": "David Thorpe",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.19.1"
+  }
+}
